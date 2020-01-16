@@ -21,7 +21,7 @@ The code is applied on two example datasets in the folder ‘data’: an FE mode
 #### 3.	Material model
 The implemented nonlinear material model in the code is based on the following publication:
 
-J.H. Keyak, T.S. Kaneko, J. Tehranzadeh, H.B. Skinner, Predicting proximal femoral strength using structural engineering models, Clin. Orthop. Relat. Res. 437 (2005) 219–228. 
+J.H. Keyak, T.S. Kaneko, J. Tehranzadeh, H.B. Skinner, Predicting proximal femoral strength using structural engineering models, Clin. Orthop. Relat. Res. 437 (2005) 219–228. https://www.ncbi.nlm.nih.gov/pubmed/16056052
 
 We refer the reader to this publication for more information on the material model.
 
