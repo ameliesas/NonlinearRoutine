@@ -1,5 +1,5 @@
 # NonlinearRoutine
-**Iterative routine to implement nonlinear material properties in a linear finite element solver **
+**Iterative routine to implement nonlinear material properties in a linear finite element solver**
 
 ### Introduction
 The scripts are written for usage in the linear finite element (FE) solver ParOSol. They describe how to apply nonlinear material properties in this linear solver by running iteratively in a loop over ParOSol. Since ParOSol is a voxel-based FE solver, the code only works for voxel-based FE models. ParOSol is an open-source software, which can be downloaded from the following link: https://bitbucket.org/cflaig/parosol/src/default/. 
