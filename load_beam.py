@@ -23,8 +23,9 @@ The h5-inputfile of the beam should include the following data:
       - Segmentation
           * Density: 3D matrix of the density values of the beam (single datatype).   
       - Image_Data
-          * Fixed_Displacement_Coordinates: 4-by-k array with in each column the indices of the nodes where a displacement is applied,
-              followed by the direction in which the displacement is applied
+          * Fixed_Displacement_Coordinates: 4-by-k array with in each column the indices of the nodes [i_z,i_y,i_x] where a 
+              displacement is applied, followed by the direction in which the displacement is applied (0 = x-direction,
+              1 = y-direction, 2 = z-direction)
           * Fixed_Displacement_Values: k-by-1 array of the magnitudes of the applied displacements
           * Voxelsize: size of the voxels in the CT scan
 An example h5-file is provided in the data folder ('Beam_example.h5').
