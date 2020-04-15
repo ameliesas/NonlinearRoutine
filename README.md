@@ -7,7 +7,7 @@ The scripts are written for usage in the linear finite element (FE) solver ParOS
 ### Publication
 For more information about the use of this code and the example data, we refer to the following journal article:
 
-A. Sas, N. Ohs, E. Tanck, G.H. van Lenthe, Nonlinear voxel-based finite element model for strength assessment of  healthy and metastatic proximal femora, Bone reports 12:xx, 2020. https://doi.org/10.1016/j.bonr.2020.100263
+A. Sas, N. Ohs, E. Tanck, G.H. van Lenthe, Nonlinear voxel-based finite element model for strength assessment of  healthy and metastatic proximal femora, Bone reports 12:100263, 2020. https://doi.org/10.1016/j.bonr.2020.100263
 
 If you decide to use this code for your research, we kindly request that you cite this paper when publishing. 
 
